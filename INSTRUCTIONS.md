@@ -1,4 +1,4 @@
-# 🧮 Problema con circuitos combinacionales / Zirkuitu konbinazional bidezko Arazoa / Problem with combinational circuits  
+# 🧮 Problema con circuitos secuenciales / Zirkuitu secuentzialen bidezko Arazoa / Problem with sequential circuits  
 
 | **Alumnos** | **Curso** | **Módulo** |
 |-------------|-----------|------------|
@@ -36,26 +36,43 @@
 
 ---
 
+### 4. FPGA en Simulador / Simulagailuko FPGA / Simulator FPGA  
+📷 Inserta aquí una foto del Simulador FPGA / Txertatu hemen Simuladore FPGAren argazkia / Insert the photo from the FPGA Simulator here.
+
+---
+
 ## 📤 Entrega / Igo / Upload  
 
 ➡️ **Instrucciones / Jarraibideak / Instructions:**  
 
 - **ES:**  
-  - Sube un archivo de Proteus con la simulación del circuito.  
+  - Sube un archivo de Proteus con la simulación del circuito.
+  - Sube una imagen de Proteus con la simulación del circuito.
   - Sube también un archivo del montaje en el Simulador Digital Protoboard.
-  - Sube un archivo pdf el diagrama de bloques escritos a mano. 
+  - Sube una imagen de Proteus con el montaje en el simulador Digital Protoboard.
+  - Sube un archivo pdf o imagen del diagrama de bloques escritos a mano.
+  - Sube un archivo del simulador de FPGA en IceStudio.
+  - Sube una imagen del simulador de FPGA.
   - **Todos los archivos deben incluir tu nombre en el nombre del archivo.**  
 
 - **EU:**  
   - Igo Proteus fitxategi bat zirkuituaren simulazioarekin.
+  - Igo Proteus-en irudi bat zirkuituaren simulazioarekin.
   - Igo baita ere Simuladore Digital Protoboard-eko muntaketaren fitxategia.
-  - Igo pdf fitxategi bat bloke diagrama eskuz idatzita.  
+  - Igo Proteus-en irudi bat Digital Protoboard Simuladoreko muntaiarenarekin.
+  - Igo pdf edo imagin fitxategi bat bloke diagrama eskuz idatzita.
+  - Igo IceStudio FPGA simuladoreko fitxategi bat.
+  - Igo FPGA simuladorearen irudi bat.
   - **Fitxategi guztiek zure izena eduki behar dute fitxategiaren izenean.**
 
 - **EN:**  
   - Upload a Proteus file with the circuit simulation.
+  - Upload a Proteus file with the circuit simulation.
   - Also upload a file of the assembly in the Digital Breadboard Simulator.
-  - Upload a PDF file with the handwritten block diagram.
+  - Upload a Proteus image showing the assembly in the Digital Protoboard Simulator.
+  - Upload a PDF file or image of the hand-written block diagram.
+  - Upload a file from the FPGA simulator in IceStudio.
+  - Upload an image from the FPGA simulator.
   - **All files must include your name in the file name.**
 
 ---
